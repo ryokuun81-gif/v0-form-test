@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"/v0-form-test/_next/static/chunks/0rez37jnbjeud.js"
+3:I[15796,["$2"],"default"]
+4:I[94651,["$2"],"default"]
+b:"/v0-form-test/_next/static/chunks/3v10w7n-mf2cu.js"
+c:I[62735,["$2","$b"],""]
+d:I[92339,["$2","$b"],"default"]
+e:I[93491,["$2","$b"],"Button"]
+12:"ViewportBoundary"
+13:I[58997,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[58997,["$2"],"$14"]
+16:"$Sreact.suspense"
+:HL["/v0-form-test/_next/static/chunks/1uob49xuk2sw7.css","style"]
+:HL["/v0-form-test/_next/static/chunks/3ce655z_2rx2_.css","style"]
+:HL["/v0-form-test/_next/static/chunks/342v2o3t0_k11.css","style"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"className":"border-b bg-background/90","children":["$","div",null,{"className":"mx-auto flex h-14 max-w-5xl items-center px-5","children":["$","$Lc",null,{"href":"/","className":"font-serif text-lg font-bold tracking-widest","children":["木の家 ",["$","span",null,{"className":"text-primary","children":"モデルハウス"}]]}]}]}],["$","main",null,{"className":"mx-auto flex min-h-[70svh] max-w-xl flex-col items-center justify-center px-5 py-16 text-center","children":[["$","$Ld",null,{"iconNode":[["circle",{"cx":"12","cy":"12","r":"10","key":"1mglay"}],["path",{"d":"m9 12 2 2 4-4","key":"dzmm74"}]],"className":"lucide-circle-check size-12 text-accent","aria-hidden":"true"}],["$","h1",null,{"className":"mt-6 font-serif text-2xl font-bold tracking-wide","children":"お申込みを受け付けました"}],["$","div",null,{"className":"mt-6 flex flex-col gap-2 text-pretty text-sm leading-relaxed text-muted-foreground","children":[["$","p",null,{"children":"お申込みを受け付けました。確認メールをお送りしました。"}],["$","p",null,{"children":"予約確定のご連絡は担当者より別途お送りします。"}]]}],["$","$Le",null,{"data-slot":"button","className":"group/button inline-flex shrink-0 items-center justify-center rounded-lg border bg-clip-padding text-sm font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/50 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 dark:aria-invalid:border-destructive/50 dark:aria-invalid:ring-destructive/40 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4 border-border bg-background hover:bg-muted hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground dark:border-input dark:bg-input/30 dark:hover:bg-input/50 h-8 gap-1.5 px-2.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 mt-10","nativeButton":false,"render":["$","$Lc",null,{"href":"/"}],"children":"トップへ戻る"}]]}],["$","footer",null,{"className":"border-t py-8","children":["$","p",null,{"className":"text-center text-xs text-muted-foreground","children":"© 木の家 モデルハウス"}]}]],["$Lf"],"$L10"]}],"p":"$@11","v":null,"s":"$6"}}]]
+7:[["children",{"s":"thanks","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/v0-form-test/_next/static/chunks/1uob49xuk2sw7.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/v0-form-test/_next/static/chunks/3ce655z_2rx2_.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/v0-form-test/_next/static/chunks/342v2o3t0_k11.css","precedence":"next"}],["$","script","script-0",{"src":"/v0-form-test/_next/static/chunks/0rez37jnbjeud.js","async":true}]],["$","html",null,{"lang":"ja","className":"w00RLW_variable J1XCka_variable","children":["$","body",null,{"className":"font-sans antialiased","children":["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f8f4ee"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"お申込み完了 | モデルハウス 見学・宿泊体験"}],["$","meta","1",{"name":"description","content":"モデルハウスの見学・宿泊体験のお申込みフォームです。実際の暮らしを体感いただけます。"}],["$","meta","2",{"name":"robots","content":"noindex"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$6"}},"a":"$@18","u":"$@19","b":"Bhy1jd_3k2td6MusfCphh"}
+1a:I[58997,["$2"],"OutletBoundary"]
+f:["$","script","script-0",{"src":"/v0-form-test/_next/static/chunks/3v10w7n-mf2cu.js","async":true}]
+10:["$","$L1a",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+6:300
+1b:null
+19:true
+6:C
+18:0
+8:"$undefined"
+5:"$undefined"
+17:"$undefined"
+11:"$undefined"
